@@ -147,7 +147,7 @@ st.markdown('<div class="title">Inner Notes</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">pequenas cartas para a alma</div>', unsafe_allow_html=True)
 st.markdown('<div class="description">Escolha uma categoria e receba uma frase como se fosse escrita em uma carta antiga.</div>', unsafe_allow_html=True)
 st.markdown('<div class="divider">❦</div>', unsafe_allow_html=True)
-)
+
 
 categoria = st.selectbox(
   "Escolha uma categoria :",
@@ -176,3 +176,5 @@ st.markdown(f"""
 st.divider()
 
 st.markdown('<div class="footer">Criado com Python e Streamlit · Inner Notes by Thais Raquel</div>', unsafe_allow_html=True)
+
+)
