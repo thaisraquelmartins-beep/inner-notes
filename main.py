@@ -113,8 +113,9 @@ frases_recomeço = [
   "Hoje pode ser um novo começo.",
   "Recomeço também é progresso.",
   "Você não precisa ser perfeito.",
-  "Don't stop until ypu'r proud.",
-  "Keep showing up. Your future self will thank you."
+  "Don't stop until you'r proud.",
+  "Keep showing up. Your future self will thank you.",
+  "Trust the process and trust yourself."
   
 ]
 
@@ -123,7 +124,9 @@ frases_autoestima = [
   "Seu valor não depende da opnião dos outros.",
   "Você esta evoluindo no seu tempo.",
   "You are enough exactly as you are.",
-  "You deserve the life you're working for."
+  "You deserve the life you're working for.",
+  "The journey of a thousand miles begins with a single step."
+
   
 ]
 
@@ -132,8 +135,11 @@ frases_estudos = [
   "Voçê não precisa entender tudo de primeira.",
   "A pratica transforma confusão em clarez",
   "Never stop learning.",
-  "Focus on progress , not perfection."
+  "Focus on progress , not perfection.",
+  "Your effort today is your reward tomorrow."
+
 ]
+
 st.set_page_config(
 
   page_title="INNER NOTES",
