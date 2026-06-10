@@ -176,5 +176,3 @@ st.markdown(f"""
 st.divider()
 
 st.markdown('<div class="footer">Criado com Python e Streamlit · Inner Notes by Thais Raquel</div>', unsafe_allow_html=True)
-
-)
