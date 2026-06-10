@@ -122,7 +122,7 @@ frases_autoestima = [
   "Voçê não precisa se comparar.", 
   "Seu valor não depende da opnião dos outros.",
   "Você esta evoluindo no seu tempo.",
-  "You are enough exacly as you are.",
+  "You are enough exactly as you are.",
   "You deserve the life you're working for."
   
 ]
