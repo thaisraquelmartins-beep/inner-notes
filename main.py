@@ -161,7 +161,7 @@ if st.button("Gerar frases"):
   if categoria == "Foco":
     frase = random.choice(frases_foco)
   elif categoria == "Recomeço":
-    frase = random.choice(frases_recomeco)
+    frase = random.choice(frases_recomeço)
   elif categoria == "Autoestima":
     frase = random.choice(frases_autoestima)
   elif categoria == "Estudos":
