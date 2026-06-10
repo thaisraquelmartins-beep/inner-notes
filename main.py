@@ -10,7 +10,7 @@ frases_foco = [
   
 ]
 
-fases_recomeço = [
+frases_recomeço = [
   "Hoje pode ser um novo começo.",
   "Recomeço também é progresso.",
   "Você não ser perfeito.",
