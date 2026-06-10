@@ -64,7 +64,7 @@ if st.button("Gerar frases"):
   elif categoria == "Estudos":
     frases = random.choice(frases_estudos)
 
-st.success(frase)
+st.success(frases)
 
 st.divider()
 
