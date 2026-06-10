@@ -19,7 +19,7 @@ frases_recomeço = [
   
 ]
 
-frase_autoestima = [
+frases_autoestima = [
   "Voçê não precisa  se comoarar.", 
   "Seu valor não depende da opnião dos outros.",
   "Você esta evoluindo no seu tempo.",
