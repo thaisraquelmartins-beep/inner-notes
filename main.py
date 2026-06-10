@@ -54,13 +54,15 @@ categoria = st.selectbox(
   
 )
 
+frase = ""
+
 if st.button("Gerar frases"):
   if categoria == "Foco":
     frase = random.choice(frases_foco)
   elif categoria == "Recomeço":
     frase = random.choice(frases_recomeco)
   elif categoria == "Autoestima":
-    frase == random.choice(frases_autoestima)
+    frase = random.choice(frases_autoestima)
   elif categoria == "Estudos":
     frase = random.choice(frases_estudos)
 
